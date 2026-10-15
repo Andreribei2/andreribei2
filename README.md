@@ -31,4 +31,10 @@ Buscando uma oportunidade de estágio na área de programação 🚀
 
 ## 📫 Contato
 
-[![Email](https://img.shields.io/badge/Email-0A66FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreluizribetrin24@gmail.com)
+<p>
+<a href="mailto:andreluizribetrin24@gmail.com"><img src="https://img.shields.io/badge/Email-0A66FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/5531971426358"><img src="https://img.shields.io/badge/WhatsApp-0A66FF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
+
+📧 andreluizribetrin24@gmail.com
+📱 (31) 97142-6358
