@@ -23,11 +23,11 @@ Buscando uma oportunidade de estágio na área de programação 🚀
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-## 📊 Estatísticas
+## 🚀 Projetos em destaque
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Andreribei2&show_icons=true&theme=radical&bg_color=000000&title_color=0A66FF&icon_color=0A66FF&hide_border=true" height="150"/>
-</p>
+<a href="https://github.com/Andreribei2/Portif-lio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Andreribei2&repo=Portif-lio&theme=dark&bg_color=000000&title_color=0A66FF&icon_color=0A66FF&border_color=0A66FF" />
+</a>
 
 ## 📫 Contato
 
